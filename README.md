@@ -4,13 +4,14 @@
 - [Jeeck X Nano]()
 
 ### Install Script Di Termux
-$ pkg update && pkg upgrade
-$ pkg install python git
-$ pip install requirements.txt
-$ rm -rf Laura
+- [ ] pkg update [&&]() pkg upgrade
+- [ ] pkg install python git -y
+- [ ] pip install requirements.txt
+- [ ] [rm]() -rf Laura
+- [ ] git clone https://github.com/Kang-Toxic/Laura
 
 ### Run
-$ cd Laura
-$ ls
-$ git pull
-$ python Laura.py
+- [ ] [cd]() Laura
+- [ ] ls
+- [ ] git pull
+- [ ] python [Laura.py]()
