@@ -8,10 +8,8 @@
 - [ ] pkg install python git -y
 - [ ] [rm]() -rf Laura
 - [ ] git clone https://github.com/Kang-Toxic/Laura
+- [ ] cd Laura
 - [ ] pip install -r Bahan.Colmek
-
-### Run
-- [ ] [cd]() Laura
 - [ ] ls
 - [ ] git pull
 - [ ] python [Laura.py]()
