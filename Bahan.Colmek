@@ -1,4 +1,4 @@
-requests
 mechanize
+requests
 futures
 bs4
