@@ -1,3 +1,5 @@
+## Harap tunggu, sedang diperbaiki
+
 #### Terimakasih Untuk :
 - [Yayan-XD]()
 - [Ndrii Sans Yumasaa]()
