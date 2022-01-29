@@ -6,6 +6,7 @@
 #### Install Script Di Termux
 - [ ] pkg update [&&]() pkg upgrade
 - [ ] pkg install python git -y
+- [ ] pip install --upgrade pip
 - [ ] [rm]() -rf Laura
 - [ ] git clone https://github.com/Kang-Toxic/Laura
 - [ ] cd Laura
